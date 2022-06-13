@@ -1,2 +1,2 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/eliasrostami?cardType=github&theme=github-dark&showIcons=false)](https://git.io/awesome-stats-card)
-
+<a href="https://stackoverflow.com/users/5505916/elias"><img src="https://stackoverflow.com/users/flair/5505916.png" width="208" height="58" alt="profile for Elias at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Elias at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
